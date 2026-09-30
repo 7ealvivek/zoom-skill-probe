@@ -1,1 +1,1 @@
-/etc/passwd
+/nonexistent-zzz-9911/xyz
